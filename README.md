@@ -1,11 +1,10 @@
 # CNN_MultiClass_Image_Classification
 
 ---
-Title:  Multi Class Image Classification using CNN<br>
-Date:  16-12-22 <br>
-Description: Classifying Images into categories using CNN <br>
-Tags: [machine learning, coding, neural networks, image classification] <br>
-author: Drishya Uniyal <br>
+## Title:  Multi Class Image Classification using CNN<br>
+## Date:  16-12-22 <br>
+## Description: Classifying Images into categories using CNN <br>
+## Author: Drishya Uniyal <br>
 ---
 ## Dataset
 1. Indian Recipe Images dataset with 19 classes.
