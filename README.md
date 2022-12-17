@@ -1,9 +1,9 @@
-# CNN_MultiClass_Image_Classification
+# MultiClass_Image_Classification
 
 ---
-## Title:  Multi Class Image Classification using CNN<br>
+## Title:  Multi Class Image Classification<br>
 ## Date:  16-12-22 <br>
-## Description: Classifying Images into categories using CNN <br>
+## Description: Classifying Images into categories<br>
 ## Author: Drishya Uniyal <br>
 ---
 ## Dataset
