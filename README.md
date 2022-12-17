@@ -11,8 +11,17 @@
 2. Data divided into training and testing.
 
 ## Model
-1. CNN (other models have also been tried, the code for them ae in a different repo)
-![Alt text](models.png?raw=true "Model Comparison")
+1. CNN 
+2. Densenet201
+3. VGG16
+4. VGG19
+5. Resnet20
+6. InceptionV3
+7. InceptionResnetV2
+8. Ensemble Models
 
 ### Conclusion
 CNN being the base model perform better and gives good accuray score.
+
+### Link to Medium Article For Details.
+[Medium](https://pages.github.com/).
