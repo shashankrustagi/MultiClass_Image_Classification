@@ -12,6 +12,7 @@
 
 ## Model
 1. CNN (other models have also been tried, the code for them ae in a different repo)
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 ### Conclusion
 CNN being the base model perform better and gives good accuray score.
