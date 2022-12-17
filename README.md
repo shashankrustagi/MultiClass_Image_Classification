@@ -24,4 +24,4 @@
 CNN being the base model perform better and gives good accuray score.
 
 ### Link to Medium Article For Details.
-[Medium](https://pages.github.com/).
+[Medium](https://medium.com/@uniyald823/multi-class-image-classification-93b62d6cde40).
